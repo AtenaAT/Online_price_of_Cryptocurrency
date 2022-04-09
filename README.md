@@ -1,7 +1,7 @@
 # Online_price_of_Cryptocurrency
 Here we can get online price from www.coinlore.com API!
 
-You need to install some library:
+You need to install :
 1. request (import requests)
   - for getting URL
   - windows:
